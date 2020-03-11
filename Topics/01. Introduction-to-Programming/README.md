@@ -378,15 +378,3 @@ void       Main(                  )   {   Console   .
 <!-- attr: { class:'slide-section', clashowInPresentation: true, hasScriptWrapper: true } -->
 # Introduction to Programming
 ## Questions?
-
-<!-- attr: { showInPresentation: true, hasScriptWrapper: true} -->
-# Free Training @ Telerik Academy
-
-- Fundamentals of C# Programming Track of Courses
-    - [csharpfundamentals.telerik.com](csharpfundamentals.telerik.com)
-  - Telerik Software Academy
-    - [telerikacademy.com](https://telerikacademy.com)
-  - Telerik Academy @ Facebook
-    - [facebook.com/TelerikAcademy](https://facebook.com/TelerikAcademy)
-  - Telerik Academy Learning System
-    - [telerikacademy.com](https://telerikacademy.com)

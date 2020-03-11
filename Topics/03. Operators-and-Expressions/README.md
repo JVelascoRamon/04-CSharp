@@ -651,19 +651,3 @@ bool greater = (a > b) || ((a == 0) && (b == 0));
 <!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # Operators and Expressions
 ## Questions? -->
-
-
-<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
-# Free Trainings @ Telerik Academy
-- Fundamentals of C# ProgrammingTrack of Courses
-    - [csharpfundamentals.telerik.com](csharpfundamentals.telerik.com)
-  - Telerik Software Academy
-    - [academy.telerik.com](academy.telerik.com)
-  - Telerik Academy @ Facebook
-    - [facebook.com/TelerikAcademy](facebook.com/TelerikAcademy)
-  - Telerik Academy Learning System
-    - [https://telerikacademy.com](https://telerikacademy.com)
-
-<!-- <img class="slide-image" showInPresentation="true"  src="imgs/pic29.png" style="top:65%; left:75%; width:16.97%; z-index:-1; border-radius: 15px;" /> -->
-<!-- <img class="slide-image" showInPresentation="true"  src="imgs/pic30.png" style="top:34.35%; left:70%; width:25%; z-index:-1; border-radius: 15px;" /> -->
-<!-- <img class="slide-image" showInPresentation="true"  src="imgs/pic31.png" style="top:48.92%; left:75.91%; width:10.85%; z-index:-1; border-radius: 15px;" /> -->

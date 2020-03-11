@@ -863,18 +863,3 @@ Console.WriteLine(a + b); // 53 (string concatenation)
 <!-- <img class="slide-image" showInPresentation="true"  src="imgs/pic59.png" style="top:47.60%; left:1.87%; width:29.97%; z-index:-1; border-radius: 20px" /> -->
 <!-- <img class="slide-image" showInPresentation="true"  src="imgs/pic60.png" style="top:46.21%; left:77.66%; width:29.97%; z-index:-1; border-radius: 20px" /> -->
 
-
-<!-- attr: { showInPresentation: true, hasScriptWrapper: true } -->
-# Free Trainings @ Telerik Academy
-- Fundamentals of C# ProgrammingTrack of Courses
-    - [csharpfundamentals.telerik.com](csharpfundamentals.telerik.com)
-  - Telerik Software Academy
-    - [telerikacademy.com](https://telerikacademy.com)
-  - Telerik Academy @ Facebook
-    - [facebook.com/TelerikAcademy](facebook.com/TelerikAcademy)
-  - Telerik Academy Learning System
-    - [telerikacademy.com](https://telerikacademy.com)
-
-<!-- <img class="slide-image" showInPresentation="true"  src="imgs/pic63.png" style="top:58.18%; left:90.52%; width:16.97%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true"  src="imgs/pic64.png" style="top:34.35%; left:68.14%; width:36.30%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true"  src="imgs/pic65.png" style="top:48.92%; left:75.91%; width:10.85%; z-index:-1" /> -->

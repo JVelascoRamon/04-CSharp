@@ -524,14 +524,3 @@ Console.WriteLine("The area of your figure " +
 <!-- # Console Input / Output -->
 <!-- <img class="slide-image" showInpresentation='true' src="https://github.com/TelerikAcademy/Common/raw/master/revealjs-theme/css/imgs/cat-questions.png" style="width:80%; top:15%; left:10%" /> -->
 
-
-<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'' } -->
-# Free Trainings @ Telerik Academy
-- Fundamentals of C# Programming Track of Courses
-    - [csharpfundamentals.telerik.com](csharpfundamentals.telerik.com)
-  - Telerik Software Academy
-    - [telerikacademy.com](https://telerikacademy.com)
-  - Telerik Academy @ Facebook
-    - [facebook.com/TelerikAcademy](facebook.com/TelerikAcademy)
-  - Telerik Academy Learning System
-    - [telerikacademy.com](https://telerikacademy.com)

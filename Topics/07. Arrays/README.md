@@ -466,14 +466,3 @@ list.Add(newValue);
 <!-- # C# Arrays
 ## Questions? -->
 
-<!-- attr: { showInPresentation: true, hasScriptWrapper: true} -->
-# Free Training @ Telerik Academy
-
-- Fundamentals of C# Programming Track of Courses
-  - [csharpadvanced](http://academy.telerik.com/student-courses/programming/csharp-programming-part-2/about)
-- Telerik Software Academy
-  - [telerikacademy.com](https://telerikacademy.com)
-- Telerik Academy @ Facebook
-  - [facebook.com/TelerikAcademy](https://facebook.com/TelerikAcademy)
-- Telerik Academy Learning System
-  - [telerikacademy.com](https://telerikacademy.com)

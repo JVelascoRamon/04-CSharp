@@ -387,13 +387,3 @@ switch (animal)
 <!-- <img class="slide-image" showInPresentation="true"  src="imgs/q1.png" style="top:55%; left:42.10%; width:24.25%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true"  src="imgs/q2.png" style="top:43.20%; left:8.19%; width:23.14%; z-index:-1" /> -->
 
-<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'' } -->
-# Free Trainings @ Telerik Academy
-- Fundamentals of C# Programming Track of Courses
-    - [csharpfundamentals.telerik.com](csharpfundamentals.telerik.com)
-  - Telerik Software Academy
-    - [telerikacademy.com](https://telerikacademy.com)
-  - Telerik Academy @ Facebook
-    - [facebook.com/TelerikAcademy](https://facebook.com/TelerikAcademy)
-  - Telerik Academy Learning System
-    - [telerikacademy.com](https://telerikacademy.com)
