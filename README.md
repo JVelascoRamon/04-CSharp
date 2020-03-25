@@ -28,4 +28,4 @@
   - Microsoft **Visual Studio 2019** or Visual Studio Community 2019 (free version of VS 2019) or Visual Studio Code
   - .NET Framework 4.5 / 4.6 (included in Visual Studio)
 
-> This course is based on https://github.com/TelerikAcademy/CSharp-Part-1
+> This course is based on https://github.com/TelerikAcademy/CSharp-Part-1 and https://github.com/TelerikAcademy/Object-Oriented-Programming
