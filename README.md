@@ -2,13 +2,18 @@
 
 ## Course Topics
 
-- Introduction to Programming
-- Primitive Data Types and Variables
-- Operators, Expressions and Statements
-- Console Input / Output
-- Conditional Statements
-- Loops
-- Arrays
+- [Introduction to Programming](Topics/01.%20Introduction-to-Programming/README.md)
+- [Primitive Data Types and Variables](Topics/02.%20Data-Types-and-Variables/README.md)
+- [Operators, Expressions and Statements](Topics/03.%20Operators-and-Expressions/README.md)
+- [Console Input / Output](Topics/04.%20Console-In-and-Out/README.md)
+- [Conditional Statements](Topics/05.%20Conditional-Statement/README.md)
+- [Loops](Topics/06.%20Loops/README.md)
+- [Arrays](Topics/07.%20Arrays/README.md)
+- [Methods](Topics/08.%20Methods/README.md)
+- [Strings](Topics/09.%20Strings/README.md)
+- [Defining Classes Part 1](Topics/10.%20Defining-Classes-Part-1/README.md)
+- [Defining Classes Part 2](Topics/11.%20Defining-Classes-Part-2/README.md)
+- [Exceptions Handling](Topics/12.%20Exceptions-Handling/README.md)
 
 ## Why C# and .NET Framework?
 
