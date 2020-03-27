@@ -1,5 +1,7 @@
 # C# Fundamentos básicos
 
+> This course is based on https://github.com/TelerikAcademy/CSharp-Part-1 and https://github.com/TelerikAcademy/Object-Oriented-Programming
+
 ## Course Topics
 
 - [Introduction to Programming](Topics/01.%20Introduction-to-Programming/README.md)
@@ -29,8 +31,17 @@
 ## Required Software
 
 - Software needed for this course:
-  - Microsoft Windows (8, 8.1 and 10 preferably)
-  - Microsoft **Visual Studio 2019** or Visual Studio Community 2019 (free version of VS 2019) or Visual Studio Code
-  - .NET Framework 4.5 / 4.6 (included in Visual Studio)
+  - Microsoft Windows (8, 8.1 or 10 preferably)
+  - Microsoft Visual Studio 2019 or Visual Studio Community 2019 (free version of VS 2019) or Visual Studio Code
+  - .NET Framework 4.x (included in Visual Studio)
 
-> This course is based on https://github.com/TelerikAcademy/CSharp-Part-1 and https://github.com/TelerikAcademy/Object-Oriented-Programming
+## Online Tools
+
+- [https://dotnetfiddle.net/](https://dotnetfiddle.net/)
+- [https://www.jdoodle.com/compile-c-sharp-online/](https://www.jdoodle.com/compile-c-sharp-online/)
+
+## Exercises for practice
+
+- [www.w3schools.com/cs](https://www.w3schools.com/cs/default.asp)
+- [www.w3resource.com/csharp-exercises](https://www.w3resource.com/csharp-exercises/)
+- [https://csharpexercises.com/](https://csharpexercises.com/)
