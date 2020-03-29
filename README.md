@@ -13,9 +13,9 @@
 - [Arrays](Topics/07.%20Arrays/README.md)
 - [Methods](Topics/08.%20Methods/README.md)
 - [Strings](Topics/09.%20Strings/README.md)
-- [Defining Classes Part 1](Topics/10.%20Defining-Classes-Part-1/README.md)
-- [Defining Classes Part 2](Topics/11.%20Defining-Classes-Part-2/README.md)
-- [Exceptions Handling](Topics/12.%20Exceptions-Handling/README.md)
+- [Defining Classes](Topics/10.%20Defining-Classes/README.md)
+- [Exceptions Handling](Topics/11.%20Exceptions-Handling/README.md)
+- [LINQ](Topics/12.%20LINQ/README.md)
 
 ## Why C# and .NET Framework?
 
