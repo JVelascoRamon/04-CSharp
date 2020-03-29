@@ -40,6 +40,10 @@
 - [https://dotnetfiddle.net/](https://dotnetfiddle.net/)
 - [https://www.jdoodle.com/compile-c-sharp-online/](https://www.jdoodle.com/compile-c-sharp-online/)
 
+## Videos
+
+- [Curso C# - PildorasInformáticas](https://youtu.be/6EBNIgkrU74)
+
 ## Exercises for practice
 
 - [www.w3schools.com/cs](https://www.w3schools.com/cs/default.asp)
