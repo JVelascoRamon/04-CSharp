@@ -12,3 +12,7 @@
 - Parsing Numbers and Dates
 
 > Content in file Strings-and-Text-Processing.pdf in this folder
+
+# Exercises
+- [Description](Exercises.md)
+- [Solutions](solution/README.md)
