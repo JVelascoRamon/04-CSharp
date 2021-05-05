@@ -10,3 +10,7 @@
 - Best Practices
 
 > Content in file Exception-Handling.pdf in this folder
+
+# Exercises
+- [Description](Exercises.md)
+- [Solutions](solution/README.md)
