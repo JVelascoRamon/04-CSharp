@@ -82,4 +82,4 @@ RUN dotnet interactive jupyter install
 ENV DOTNET_INTERACTIVE_CLI_TELEMETRY_OPTOUT=false
 
 # Set root to notebooks
-WORKDIR ${HOME}/Topics/
+WORKDIR ${HOME}/notebooks/
