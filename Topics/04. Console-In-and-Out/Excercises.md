@@ -1,4 +1,4 @@
-# Console Input/Output
+## Console Input/Output
 
 1. Write a program that reads 3 integers from the console and prints their sum.
 
