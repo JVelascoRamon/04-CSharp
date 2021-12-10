@@ -1,0 +1,166 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (01-Sum)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/01-Sum/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/01-Sum",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (02-IsPrime)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/02-IsPrime/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/02-IsPrime",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (03-FactorialBreak)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/03-FactorialBreak/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/03-FactorialBreak",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (04-FactorialDoWhile)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/04-FactorialDoWhile/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/04-FactorialDoWhile",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (05-ForLoops)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/05-ForLoops/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/05-ForLoops",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (06-Product)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/06-Product/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/06-Product",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (07-Power)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/07-Power/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/07-Power",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (08-Continue)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/08-Continue/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/08-Continue",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (09-Foreach)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/09-Foreach/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/09-Foreach",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (10-Triangle)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/10-Triangle/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/10-Triangle",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (11-Primes)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/11-Primes/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/11-Primes",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (12-HappyNumbers)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/12-HappyNumbers/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/12-HappyNumbers",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (13-Toto)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/13-Toto/bin/Debug/net5.0/01.Sum_1..N.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/13-Toto",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
