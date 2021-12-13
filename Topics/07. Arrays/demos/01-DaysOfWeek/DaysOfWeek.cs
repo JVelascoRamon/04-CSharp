@@ -16,5 +16,7 @@ public class DaysOfWeek
         };
 
         Console.WriteLine(daysOfWeek.Length);
+
+        Console.ReadLine();
     }
 }

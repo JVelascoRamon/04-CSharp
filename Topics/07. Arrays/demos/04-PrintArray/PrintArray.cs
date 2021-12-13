@@ -12,5 +12,7 @@ public class PrintArrys
             // Print each element on a separate line
             Console.WriteLine("element[{0}] = {1}", index, array[index]);
         }
+
+        Console.ReadLine();
     }
 }

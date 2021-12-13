@@ -36,5 +36,7 @@ public class IteratingOverArrays
         }
 
         Console.WriteLine();
+
+        Console.ReadLine();
     }
 }

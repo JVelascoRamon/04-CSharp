@@ -18,5 +18,7 @@ public class ResizingLists
                 capacity, count, lineBreak);
             list.Add(i);
         }
+
+        Console.ReadLine();
     }
 }

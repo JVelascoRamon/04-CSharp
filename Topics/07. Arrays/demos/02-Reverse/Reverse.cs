@@ -23,5 +23,7 @@ public class Reverse
         {
             Console.WriteLine(reversed[index]);
         }
+
+        Console.ReadLine();
     }
 }

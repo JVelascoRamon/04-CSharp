@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": "01-DaysOfWeek"
+    },
+    {
+      "path": "02-Reverse"
+    },
+    {
+      "path": "03-CheckSymmetry"
+    },
+    {
+      "path": "04-PrintArray"
+    },
+    {
+      "path": "05-IteratingOverArrays"
+    },
+    {
+      "path": "06-Lists"
+    },
+    {
+      "path": "07-ResizingLists"
+    },
+  ],
+}

@@ -28,5 +28,7 @@ public class CheckSymmetry
         }
 
         Console.WriteLine("Symmetric? --> {0}", isSymmetric);
+
+        Console.ReadLine();
     }
 }

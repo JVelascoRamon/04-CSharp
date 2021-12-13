@@ -28,5 +28,7 @@ public class Lists
         }
 
         Console.WriteLine();
+
+        Console.ReadLine();
     }
 }
