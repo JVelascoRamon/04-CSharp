@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "path": "01-PrintLogo"
+    },
+    {
+      "path": "02-MethodsParameters"
+    },
+    {
+      "path": "03-Months"
+    },
+    {
+      "path": "04-Triangle"
+    },
+    {
+      "path": "05-OptionalParameters"
+    },
+    {
+      "path": "06-Temperature"
+    },
+    {
+      "path": "07-PositiveNumbers"
+    },
+    {
+      "path": "08-DataValidation"
+    },
+  ],
+}
