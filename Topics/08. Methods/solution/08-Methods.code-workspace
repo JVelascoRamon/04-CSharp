@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "01-PrintBiggerNumber"
+    },
+    {
+      "path": "02-NameOfLastDigit"
+    },
+    {
+      "path": "03-NumberOccursInArray"
+    },
+    {
+      "path": "04-BiggerFromItsNeighbours"
+    },
+    {
+      "path": "05-FirstBiggerThanNeighbours"
+    },
+  ],
+}
