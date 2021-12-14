@@ -1,0 +1,40 @@
+{
+  "folders": [
+    {
+      "path": "01-First-Example"
+    },
+    {
+      "path": "02-ReadingPrintingStrings"
+    },
+    {
+      "path": "03-Finding-Smallest-String"
+    },
+    {
+      "path": "04-String-Concatenation"
+    },
+    {
+      "path": "05-Searching-In-String"
+    },
+    {
+      "path": "06-Extracting-Substrings"
+    },
+    {
+      "path": "07-Splitting-Strings"
+    },
+    {
+      "path": "08-Other-String-Operations"
+    },
+    {
+      "path": "09-Slow-Building-Strings"
+    },
+    {
+      "path": "10-StringBuilder-Demo"
+    },
+    {
+      "path": "11-Formatting-Strings"
+    },
+    {
+      "path": "12-Parsing-Numbers-and-Dates"
+    },
+  ],
+}
