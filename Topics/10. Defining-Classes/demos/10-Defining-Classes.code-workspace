@@ -1,0 +1,37 @@
+{
+  "folders": [
+    {
+      "path": "01-Constants"
+    },
+    {
+      "path": "02-DogMeeting"
+    },
+    {
+      "path": "03-Constructors"
+    },
+    {
+      "path": "04-Methods"
+    },
+    {
+      "path": "05-Defining-Properties"
+    },
+    {
+      "path": "06-Enums"
+    },
+    {
+      "path": "07-CofeeSize"
+    },
+    {
+      "path": "08-Keep-the-Object-State"
+    },
+    {
+      "path": "09-StaticMembers"
+    },
+    {
+      "path": "10-Structures"
+    },
+    {
+      "path": "11-Namespaces"
+    },
+  ],
+}
