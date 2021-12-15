@@ -1,0 +1,31 @@
+{
+  "folders": [
+    {
+      "path": "01-ReverseString"
+    },
+    {
+      "path": "02-ValidExpression"
+    },
+    {
+      "path": "03-OccursOfWord"
+    },
+    {
+      "path": "04-UpCase"
+    },
+    {
+      "path": "05-StringFilledWithStars"
+    },
+    {
+      "path": "06-StringToUnicode"
+    },
+    {
+      "path": "07-ReverseWords"
+    },
+    {
+      "path": "08-ReplaceSequencesWithSingleElement"
+    },
+    {
+      "path": "09-SortAlphabetical"
+    },
+  ],
+}
