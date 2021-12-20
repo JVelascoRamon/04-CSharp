@@ -35,6 +35,8 @@ class SquareRootOfNumber
         {
             Console.WriteLine("Good bye!\n");
         }
+
+        Console.ReadLine();
     }
 
     static void PrintErrorMessage(Exception error)

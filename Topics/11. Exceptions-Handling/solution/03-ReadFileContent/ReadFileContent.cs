@@ -54,6 +54,8 @@ class ReadFileContent
         {
             PrintErrorMessage(ua);
         }
+
+        Console.ReadLine();
     }
 
     static void PrintErrorMessage(Exception error)

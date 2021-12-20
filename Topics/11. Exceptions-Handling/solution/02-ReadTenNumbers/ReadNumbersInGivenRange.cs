@@ -33,6 +33,8 @@ class ReadNumbersInGivenRange
         {
             Console.Error.WriteLine("\n-> {0} -> {1}\n", e.GetType(), e.Message);
         }
+
+        Console.ReadLine();
     }
 
     static int ReadNumber(int start, int end)

@@ -52,5 +52,7 @@ class DownloadFromInternet
                 Console.WriteLine("\nGoodbye!\n");
             }
         }
+
+        Console.ReadLine();
     }
 }

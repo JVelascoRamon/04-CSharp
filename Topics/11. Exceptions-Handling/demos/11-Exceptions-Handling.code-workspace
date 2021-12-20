@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "01-HandlingExceptions"
+    },
+    {
+      "path": "02-ExceptionsProperties"
+    },
+    {
+      "path": "03-ThrowingExceptions"
+    },
+    {
+      "path": "04-TryFinally"
+    },
+  ],
+}
