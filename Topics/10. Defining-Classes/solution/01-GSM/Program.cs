@@ -35,7 +35,7 @@ class Program
         // Display information about IPhone 4S
         Console.Write(GSM.Iphone4S);
 
-        //Test_CallHistory();
+        Test_CallHistory();
 
         Console.ReadLine();
     }

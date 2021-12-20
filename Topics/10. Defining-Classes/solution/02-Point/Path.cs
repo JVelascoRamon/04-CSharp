@@ -7,7 +7,7 @@ namespace CoordinateSystem
     public class Path
     {
         // Constant Fields
-        private const string Separator = "\n";
+        private static string Separator = System.Environment.NewLine;
 
         private readonly List<Point3D> points = new List<Point3D>();
 

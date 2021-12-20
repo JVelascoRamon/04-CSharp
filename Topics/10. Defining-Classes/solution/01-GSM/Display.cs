@@ -6,23 +6,23 @@ namespace MobilePhone
     public class Display
     {
         // Private Constans
-        private const decimal MinSizeInches = 0.5m;
-        private const decimal MaxSizeInches = 100;
-        private const decimal MaxNumberOfColors = 1E10M;
+        private const double MinSizeInches = 0.5;
+        private const double MaxSizeInches = 100;
+        private const ulong MaxNumberOfColors = ulong.MaxValue;
 
         // Private Fields
-        private decimal? sizeInches = null;
+        private double? sizeInches = null;
         private ulong? numberOfColors = null;
 
         // Constructors
-        public Display(decimal? sizeInches = null, ulong? numberOfColors = null)
+        public Display(double? sizeInches = null, ulong? numberOfColors = null)
         {
             this.SizeInches = sizeInches;
             this.NumberOfColors = numberOfColors;
         }
 
         // Properties
-        public decimal? SizeInches
+        public double? SizeInches
         {
             get { return this.sizeInches; }
             set

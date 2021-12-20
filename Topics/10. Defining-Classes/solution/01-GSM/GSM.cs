@@ -9,7 +9,7 @@ namespace MobilePhone
         private static readonly GSM iphone4S = new GSM("IPhone 4S", "Apple", "M-tel", 999.99m,
             new Display(4, 1000000), new Battery(Battery.Type.NiCd, 250, 1000));
 
-        private const uint MaxPriceValue = 1000000;
+        private const decimal MaxPriceValue = 1000000M;
 
         // Private Fields
         private string model = null;
