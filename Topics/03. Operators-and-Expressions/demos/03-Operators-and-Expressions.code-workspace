@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "path": "01-ArithmeticOperators"
+    },
+    {
+      "path": "02-LogicalOperators"
+    },
+    {
+      "path": "03-BitwiseOperators"
+    },
+    {
+      "path": "04-ComparisonAndAssignmentOperators"
+    },
+    {
+      "path": "05-OtherOperators"
+    },
+    {
+      "path": "06-TypeConversions"
+    },
+    {
+      "path": "07-Expressions"
+    },
+    {
+      "path": "08-BitwiseOperatorsContinuation"
+    },
+    {
+      "path": "09-SetBitValue"
+    },
+    {
+      "path": "10-ExchangeBits"
+    },
+  ],
+}

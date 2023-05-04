@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "01-IfStatementExample"
+    },
+    {
+      "path": "02-IfElseStatement"
+    },
+    {
+      "path": "03-NestedIf"
+    },
+    {
+      "path": "04-MultipleIfElse"
+    },
+    {
+      "path": "05-SwitchStatement"
+    },
+    {
+      "path": "06-MultipleLabels"
+    },
+  ],
+}

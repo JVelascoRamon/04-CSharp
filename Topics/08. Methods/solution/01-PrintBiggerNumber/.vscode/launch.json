@@ -6,7 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net5.0/01-PrintBiggerNumber.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/01-PrintBiggerNumber.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "externalTerminal",

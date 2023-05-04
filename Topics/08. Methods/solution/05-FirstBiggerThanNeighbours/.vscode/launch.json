@@ -6,7 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net5.0/05-FirstBiggerThanNeighbours.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/05-FirstBiggerThanNeighbours.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "externalTerminal",

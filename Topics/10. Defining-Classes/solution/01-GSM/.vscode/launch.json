@@ -6,7 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net5.0/01-GSM.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/01-GSM.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",

@@ -6,7 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net5.0/06-StringToUnicode.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/06-StringToUnicode.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "externalTerminal",

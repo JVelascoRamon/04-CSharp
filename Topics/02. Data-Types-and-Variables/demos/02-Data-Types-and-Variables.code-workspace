@@ -1,0 +1,31 @@
+{
+  "folders": [
+    {
+      "path": "01-IntegerTypes"
+    },
+    {
+      "path": "02-FloatingPointTypes"
+    },
+    {
+      "path": "03-BooleanType"
+    },
+    {
+      "path": "04-CharacterType"
+    },
+    {
+      "path": "05-StringType"
+    },
+    {
+      "path": "06-Objects"
+    },
+    {
+      "path": "07-AssigningValues"
+    },
+    {
+      "path": "08-StringLiterals"
+    },
+    {
+      "path": "09-NullableTypes"
+    },
+  ],
+}

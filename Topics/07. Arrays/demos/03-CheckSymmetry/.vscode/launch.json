@@ -6,10 +6,10 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net5.0/03-CheckSymmetry.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/03-CheckSymmetry.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "console": "externalTerminal",
+            "console": "internalConsole",
             "stopAtEntry": false
         },
     ]

@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "path": "01-PrintingToConsole"
+    },
+    {
+      "path": "02-ReadingCharacters"
+    },
+    {
+      "path": "03-ReadingKeys"
+    },
+    {
+      "path": "04-ReadingStrings"
+    },
+    {
+      "path": "05-ReadingNumbers"
+    },
+    {
+      "path": "05-RedirectConsoleInput"
+    },
+    {
+      "path": "06-TryParse"
+    },
+    {
+      "path": "07-RegionalSettings"
+    },
+    {
+      "path": "08-PrintingLetter"
+    },
+    {
+      "path": "09-CalculatingArea"
+    },
+  ],
+}

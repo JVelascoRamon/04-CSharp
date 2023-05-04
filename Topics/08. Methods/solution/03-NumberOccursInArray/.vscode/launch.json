@@ -6,7 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net5.0/03-NumberOccursInArray.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/03-NumberOccursInArray.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "externalTerminal",
