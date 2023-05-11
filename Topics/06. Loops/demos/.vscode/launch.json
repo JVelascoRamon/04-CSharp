@@ -10,7 +10,7 @@
             "args": [],
             "cwd": "${workspaceFolder}/01-Sum",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
@@ -58,7 +58,7 @@
             "args": [],
             "cwd": "${workspaceFolder}/05-ForLoops",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {

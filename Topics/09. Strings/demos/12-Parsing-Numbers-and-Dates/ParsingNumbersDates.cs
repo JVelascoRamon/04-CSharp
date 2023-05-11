@@ -6,6 +6,8 @@ class ParsingNumbersDates
 {
 	static void Main()
 	{
+
+	/*
 		string numStr = "3.14";
 		Thread.CurrentThread.CurrentCulture =
 			CultureInfo.InvariantCulture;
@@ -25,5 +27,41 @@ class ParsingNumbersDates
 		Console.WriteLine(date);
 
         Console.ReadLine();
+	*/
+
+
+
+
+	/*	// Ejercicio 1. Clase 09/05/2023
+
+		Console.Write("Please enter a sentence: ");
+        string sentence = Console.ReadLine();
+		string reverse = "";
+
+		for (int i = sentence.Length - 1; i >= 0; i--)
+		{
+			reverse = reverse + sentence[i];
+		}
+
+        Console.WriteLine(reverse);
+	*/
+
+
+
+
+		// Ejercicio 2. Clase 09/05/2023
+
+		Console.Write("Please enter a sentence: ");
+        string sentence = Console.ReadLine();
+		string reverse = "";
+
+		for (int i = sentence.Length - 1; i >= 0; i--)
+		{
+			reverse = reverse + sentence[i];
+		}
+
+        Console.WriteLine(reverse);
+
+
 	}
 }
