@@ -29,9 +29,9 @@ class DogMeeting
 		// Ask each of the dogs to bark
 		foreach(Dog dog in dogs)
 		{ 
-			dog.SayBau(); 
             if (dog.Name == "Átomo")
-            {Console.Write("Vámonos Átomo!!");}
+            {Console.WriteLine("Vámonos Átomo!!");} //Por los loles
+			dog.SayBau();
 		}
 		
 		Console.ReadLine();

@@ -1,20 +1,31 @@
-﻿// See https://aka.ms/new-console-template for more information
-//public GSM(string phoneModel, string manufacturer, int price, string owner, Battery battery = null, Display display = null)
+﻿
+GSM mobileOne = new GSM("iPhone 11", "Apple", 234, "Paco",
+                new Call(new DateTime(2023, 5, 13, 13, 20, 0), 555666777, 12), 
+                new Battery ("2.500mAh", 60, 25, BatteryType.LiIon), 
+                new Display (6, 256)); 
+
+GSM mobileTwo = new GSM("Galaxy S10", "Samsung"); 
+
+Console.WriteLine(mobileOne);
+Console.WriteLine(mobileTwo);
+//Console.WriteLine(GSM.IPhone4s);//Así llamo directamente a la propiedad IPhone4s que está establecida en el GSM
 
 
-//Battery batteryOne = new Battery ("Alcalina", 4, 5);
 
-GSM mobileOne = new GSM("11s Plus", "iPhone", 234, "Paco", new Battery ("Lithium", 60, 25), new Display (6, 2048)); //
 
-//Console.WriteLine(batteryOne.Model);
-Console.WriteLine("Modelo del teléfono: " + mobileOne.PhoneModel);
-Console.WriteLine("Fabricante: " + mobileOne.Manufacturer);
-Console.WriteLine("Precio: " + mobileOne.Price + "€");
-Console.WriteLine("Dueño: " + mobileOne.Owner + "\n");
 
-Console.WriteLine("Modelo de batería: " + mobileOne.Battery.Model);
-Console.WriteLine("Horas en espera de la batería: " + mobileOne.Battery.HoursIdle + "h");
-Console.WriteLine("Horas en uso de la batería: " + mobileOne.Battery.HoursTalking + "h" + "\n");
+/*
+    // Ejercicio 11, 12 y 13. Clase 12/05/2023
 
-Console.WriteLine("Tamaño de Display: " + mobileOne.Display.Size + "\"");
-Console.WriteLine("Número de colores de Display: " + mobileOne.Display.NumberOfColours);
+double x = 4;
+double y = 5;
+double z = 3;
+
+Euclidean3D A = new Euclidean3D (x, y, z);
+Euclidean3D B = new Euclidean3D (4, 5, 1);
+
+Console.WriteLine("A " + A);
+Console.WriteLine("O " + Euclidean3D.Origin);
+Console.WriteLine(string.Format("The distance between A and B is: {0}", DistanceClass.Distance (A, B)));
+
+*/
